@@ -2,7 +2,7 @@
 
 ## What is this
 - Sharing NBA news
-- Sharing basketball news
+- Sharing basketball information
 
 ## Skill Stack
 ### Front end
