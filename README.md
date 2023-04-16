@@ -18,5 +18,12 @@
 - MongoDB
 - GraphQL
 
+### Project Management Tool
+- Jira
+
+### Git control
+- Github
+- Sourcetree
+
 ## Contributor
 @IAmJerryJ
