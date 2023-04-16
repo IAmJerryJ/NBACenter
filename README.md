@@ -1,4 +1,4 @@
-# NBACenter
+# NBACenter <img src="https://th.bing.com/th/id/OIG.9BlUHhMf6QLmOHyPuPRC?pid=ImgGn" alt="NBACenter logo" height="40"/>
 
 ## What is this
 - Sharing NBA news
